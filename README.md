@@ -23,7 +23,7 @@ Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en l
 - **Git** & **GitHub**: Control de versiones y colaboración en proyectos.
 - **VS Code**: Mi editor de código preferido, con personalización para optimizar el flujo de trabajo.
 
-## Mis Objetivos 🚀: Mi enfoque está en desarrollar interfaces funcionales y visualmente atractivas, optimizando la experiencia del usuario mediante el uso de tecnologías actuales y buenas prácticas de desarrollo.
+Mis Objetivos 🚀: Mi enfoque está en desarrollar interfaces funcionales y visualmente atractivas, optimizando la experiencia del usuario mediante el uso de tecnologías actuales y buenas prácticas de desarrollo.
 
 
 
