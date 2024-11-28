@@ -1,11 +1,10 @@
-# Germán | Front End Developer | Estudiante de Ingeniería en Sistemas
+# Germán
+
+Front End Developer | Estudiante de Ingeniería en Sistemas
 
 Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en la **UTN FRBA**, con experiencia en la creación de aplicaciones web modernas y escalables, donde he adquirido una sólida base en programación y desarrollo de software.
 
 ## Mis Objetivos 🚀: Mi enfoque está en desarrollar interfaces funcionales y visualmente atractivas, optimizando la experiencia del usuario mediante el uso de tecnologías actuales y buenas prácticas de desarrollo.
-
-## 🎓 Estudio en la **UTN FRBA** 💻
-Soy estudiante en la **Universidad Tecnológica Nacional (UTN)**, 
 
 ## 🧑‍💻 Mis habilidades:
 ### 🌐 **Desarrollo Frontend**:
