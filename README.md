@@ -3,6 +3,7 @@
 
 Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en la **UTN FRBA**, con experiencia en la creación de aplicaciones web modernas y escalables, donde he adquirido una sólida base en programación y desarrollo de software.
 
+Mis Objetivos 🚀: Mi enfoque está en desarrollar interfaces funcionales y visualmente atractivas, optimizando la experiencia del usuario mediante el uso de tecnologías actuales y buenas prácticas de desarrollo.
 
 ## 🛠️ Habilidades Técnicas:
 
@@ -23,7 +24,7 @@ Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en l
 - **Git** & **GitHub**: Control de versiones y colaboración en proyectos.
 - **VS Code**: Mi editor de código preferido, con personalización para optimizar el flujo de trabajo.
 
-Mis Objetivos 🚀: Mi enfoque está en desarrollar interfaces funcionales y visualmente atractivas, optimizando la experiencia del usuario mediante el uso de tecnologías actuales y buenas prácticas de desarrollo.
+
 
 
 
