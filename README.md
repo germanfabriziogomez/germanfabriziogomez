@@ -12,7 +12,7 @@ Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en l
 - **JavaScript**: Experiencia desarrollando interacciones dinámicas y aplicaciones web.
 - **Frameworks CSS**: Uso de **Bootstrap** y **Tailwind** para crear interfaces de usuario responsivas y modernas.
 - **React** y **Vue.js** para crear interfaces de usuario interactivas.
-- **Node.js** para mejorar mis habilidades de backend.
+- **Node.js** para levantar la aplicacion en el servidor.
   
 ### 💻 **Programación y Paradigmas**:
 - **C++**: Conocimientos avanzados en programación, estructuras de datos y algoritmos.
