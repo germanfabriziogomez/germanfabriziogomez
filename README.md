@@ -4,7 +4,8 @@
 Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en la **UTN FRBA**, con experiencia en la creación de aplicaciones web modernas y escalables, donde he adquirido una sólida base en programación y desarrollo de software.
 
 
-## 🧑‍💻 Mis habilidades:
+## 🛠️ Habilidades Técnicas:
+
 ### 🌐 **Desarrollo Frontend**:
 - **HTML5** & **CSS3**: Conocimientos sólidos en la creación de sitios web accesibles y bien estructurados.
 - **JavaScript**: Experiencia desarrollando interacciones dinámicas y aplicaciones web.
