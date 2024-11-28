@@ -1,10 +1,8 @@
-# Germán
+# Germán | Front End Developer | Estudiante de Ingeniería en Sistemas
 
-Front End Developer | Estudiante de Ingeniería en Sistemas
 
 Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en la **UTN FRBA**, con experiencia en la creación de aplicaciones web modernas y escalables, donde he adquirido una sólida base en programación y desarrollo de software.
 
-## Mis Objetivos 🚀: Mi enfoque está en desarrollar interfaces funcionales y visualmente atractivas, optimizando la experiencia del usuario mediante el uso de tecnologías actuales y buenas prácticas de desarrollo.
 
 ## 🧑‍💻 Mis habilidades:
 ### 🌐 **Desarrollo Frontend**:
@@ -13,7 +11,7 @@ Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en l
 - **Frameworks CSS**: Uso de **Bootstrap** y **Tailwind** para crear interfaces de usuario responsivas y modernas.
 - **React** y **Vue.js** para crear interfaces de usuario interactivas.
 - **Node.js** para mejorar mis habilidades de backend.
-- 
+  
 ### 💻 **Programación y Paradigmas**:
 - **C++**: Conocimientos avanzados en programación, estructuras de datos y algoritmos.
 - **Paradigmas de programación**:
@@ -23,6 +21,8 @@ Soy **Desarrollador Front End** y **estudiante de Ingeniería en Sistemas** en l
 ### 🔧 **Herramientas**:
 - **Git** & **GitHub**: Control de versiones y colaboración en proyectos.
 - **VS Code**: Mi editor de código preferido, con personalización para optimizar el flujo de trabajo.
+
+## Mis Objetivos 🚀: Mi enfoque está en desarrollar interfaces funcionales y visualmente atractivas, optimizando la experiencia del usuario mediante el uso de tecnologías actuales y buenas prácticas de desarrollo.
 
 
 
